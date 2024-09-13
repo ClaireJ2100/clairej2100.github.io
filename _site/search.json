@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "zjiang21.github.io",
+    "section": "",
+    "text": "Welcome to my website\nMy name is Zhengling Jiang, and I’m a Master of Data Science student.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
